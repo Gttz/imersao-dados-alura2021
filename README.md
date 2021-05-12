@@ -6,7 +6,8 @@
 
 Aulas realizadas nos dias 03/05/2021 até 07/05/2021
 
-#### Dataset
+#### Notebook & Dataset
+- Notebook: [imersao-dados-alura2021](https://nbviewer.jupyter.org/github/Gttz/imersao-dados-alura2021/blob/main/ImersaoDados-Alura2021.ipynb)
 - Base de dados: [Mechanisms of Action (MoA)](https://www.kaggle.com/c/lish-moa/overview/description)
 
 #### Aulas
